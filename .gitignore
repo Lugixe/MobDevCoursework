@@ -1,0 +1,14 @@
+*.iml
+*.iws
+.gradle/
+/local.properties
+.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+.project
+.settings/
+Thumbs.db
+secrets.xml
