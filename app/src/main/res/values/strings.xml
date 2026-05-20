@@ -1,3 +1,30 @@
 <resources>
-    <string name="app_name">MobDevWeatherForecast</string>
+    <string name="app_name">Прогноз Погоды</string>
+
+    <string-array name="default_cities">
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Лондон</item>
+        <item>Токио</item>
+        <item>Нью-Йорк</item>
+    </string-array>
+
+    <string name="weather_clear">Ясно ☀️</string>
+    <string name="weather_cloudy">Облачно ⛅</string>
+    <string name="weather_fog">Туман 🌫️</string>
+    <string name="weather_drizzle">Морось 🌧️</string>
+    <string name="weather_rain">Дождь ☔</string>
+    <string name="weather_snow">Снег ❄️</string>
+    <string name="weather_shower">Ливень ⛈️</string>
+    <string name="weather_storm">Гроза 🌩️</string>
+    <string name="weather_unknown">Неизвестно ❓</string>
+
+    <string-array name="default_cities_api">
+        <item>Moscow</item>
+        <item>St. Petersburg</item>
+        <item>London</item>
+        <item>Tokyo</item>
+        <item>New York</item>
+    </string-array>
 </resources>
+
